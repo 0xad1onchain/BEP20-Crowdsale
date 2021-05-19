@@ -61,7 +61,7 @@ module.exports = {
     bsc: {
       provider: () =>
         new HDWalletProvider(
-          "pass trash sign point cake enjoy public supply hunt upon reject supreme",
+          "rib argue shiver pigeon crash script disorder obtain burst net wrist sign",
           `https://data-seed-prebsc-1-s1.binance.org:8545/`
         ),
       network_id: 97, // Ropsten's id
